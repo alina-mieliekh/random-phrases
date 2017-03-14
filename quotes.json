@@ -1,0 +1,59 @@
+[
+    {"quote": "Si vis pacem, para bellum",
+        "person": "-Publius Flavius Vegetius Renatus",
+        "whereFrom": "De Re Militari"
+    },
+
+    {
+        "quote": "“Carpe diem.”",
+        "person": "-Horace",
+        "whereFrom": "De Re Militari"
+    },
+
+    {
+        "quote": "“Your hand can seize today, but not tomorrow; and thoughts of your tomorrow are nothing but desire. Don’t waste this breath, if your heart isn’t crazy, since the rest of your life won’t last forever.”",
+        "person": "-Omar Khayyám",
+        "whereFrom": "Quatrains - Ballades"
+    },
+    {
+        "quote": "“Reason is not automatic.Those who deny it cannot be conquered by it. Do not count on them. Leave them alone.”",
+        "person": "-Ayn Rand",
+        "whereFrom": "Atlas Shrugged"
+    },
+
+    {
+        "quote": "“I love making, I love doing. I love being to the full, I love everything which is not sitting and watching and copying and dead at heart.”",
+        "person": "-John Fowles",
+        "whereFrom": "The Collector"
+    },
+
+    {
+        "quote": "“The ordinary man is the curse of civilization.”",
+        "person": "-John Fowles",
+        "whereFrom": "The Collector"
+    },
+
+    {
+        "quote": "“My courage always rises with every attempt to intimidate me.”",
+        "person": "-Jane Austen",
+        "whereFrom": "Pride and Prejudice"
+    },
+
+    {
+        "quote": "“All we have to decide is what to do with the time that is given us.”",
+        "person": "-J. R. R. Tolkien",
+        "whereFrom": "The Fellowship of the Ring"
+    },
+
+    {
+        "quote": "“Liking other people is an illusion we have to cherish in ourselves if we are to live in society.”",
+        "person": "-John Fowles",
+        "whereFrom": "The Magus"
+    },
+
+    {
+        "quote": "“If everybody minded their own business, the world would go around a great deal faster than it does.”",
+        "person": "-Lewis Carroll",
+        "whereFrom": "Alice in Wonderland"
+    }
+]
